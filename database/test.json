@@ -1,0 +1,20 @@
+{
+  "0": {
+    "size": 4,
+    "autoIncremate": true,
+    "type": "int",
+    "name": "ID"
+  },
+  "1": {
+    "size": 20,
+    "autoIncremate": true,
+    "type": "str",
+    "name": "NOME"
+  },
+  "2": {
+    "size": 20,
+    "autoIncremate": true,
+    "type": "str",
+    "name": "COGNOME"
+  }
+}
