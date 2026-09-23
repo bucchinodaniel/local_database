@@ -1,7 +1,7 @@
 [project]
 name = "local_database"
 version = "0.1.0"
-description = "Database locale basato su file JSON-lines"
+description = "Database locale basato su file JSON e TXT"
 requires-python = ">=3.9"
 dependencies = []
 
